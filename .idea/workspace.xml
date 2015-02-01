@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a39dfec3-8e04-4dae-93f6-d3c2df5ba7c0" name="Default" comment="">
+      <change type="DELETED" beforePath="D:\Mmuzaf\Projects\jbittorrentapi-v1.0\Examples\downloads\24132-wot_modpack_by_amway921_for_0_9_0_-_update_32.zip" afterPath="" />
+      <change type="DELETED" beforePath="D:\Mmuzaf\Projects\jbittorrentapi-v1.0\Examples\downloads\Game.of.Thrones.S03E09.rus.LostFilm.TV.avi" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="jbittorrentapi-v1.0.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="Commander">
+    <leftPanel />
+    <rightPanel />
+    <splitter proportion="0.5" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint url="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/PeerUpdater.java" line="352" class="jBittorrentAPI.PeerUpdater" package="jBittorrentAPI">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+      <breakpoint url="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/structure/TorrentMetaInfo.java" line="59" class="jBittorrentAPI.structure.TorrentMetaInfo" package="jBittorrentAPI.structure">
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+    </line_breakpoints>
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="jbittorrentapi-v1.0" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="NonSerializible.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examples/src/serializible/NonSerializible.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="31" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="459">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataObject.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examples/src/serializible/DataObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="41" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="680">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestGenerics.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examples/src/generics/TestGenerics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="7" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="527">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Utils.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/utils/Utils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="432" column="0" selection-start="13290" selection-end="13290" vertical-scroll-proportion="0.09848485" vertical-offset="6548" max-vertical-offset="7208">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PeerMessageDecoder.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/PeerMessageDecoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="15" selection-start="625" selection-end="625" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="1326">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomObject.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examples/src/serializible/CustomObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="0" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="578">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestSerialize.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examples/src/serializible/TestSerialize.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="52" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="884">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Account.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examples/src/concurrency/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="5" selection-start="711" selection-end="711" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="969">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BCoder.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/bencode/BCoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="48" column="63" selection-start="1640" selection-end="1640" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="1360">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Application.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Examples/src/examples/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="46" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="646">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/Peer.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/bencode/btypes/BString.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/structure/AnnounceMetaData.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/reciever/TrackerManager.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/structure/TorrentMetaInfo.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/structure/PieceMetaData.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/structure/TorrentMetaPiece.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/structure/Torrent.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/reciever/TrackerRequestsHandler.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/reciever/TrackerProtocolHandler.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/reciever/TorrentEvent.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/reciever/TrackerEvent.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/DownloadTask.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/AbstractPeerWireMessage.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/KeepAlivePeerProtocolMessage.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/AbstractPeerProtocolMessage.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/PeerWireMessage.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/KeepAliveMessage.java" />
+        <option value="$PROJECT_DIR$/Examples/src/examples/Convert.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/ChokeMessage.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/InterestedMessage.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/NotInterestedMessage.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/UnChokeMessage.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/HaveBlockMessage.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/BitsetMessage.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/BitfieldMessage.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/RequestMessage.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/BitFieldMessage.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/CancelMessage.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/PortMessage.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/PeerProtocolMessage.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/BlockMessage.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/PeerMessageDecoder.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/HandShakeMessage.java" />
+        <option value="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/Message_HS.java" />
+        <option value="$PROJECT_DIR$/Examples/src/examples/Application.java" />
+        <option value="$PROJECT_DIR$/Examples/src/examples/TestStatic.java" />
+        <option value="$PROJECT_DIR$/Examples/src/concurrency/InsufficientFundsException.java" />
+        <option value="$PROJECT_DIR$/Examples/src/concurrency/Operations.java" />
+        <option value="$PROJECT_DIR$/Examples/src/concurrency/Account.java" />
+        <option value="$PROJECT_DIR$/Examples/src/concurrency/Transfer.java" />
+        <option value="$PROJECT_DIR$/Examples/src/concurrency/Operations2.java" />
+        <option value="$PROJECT_DIR$/Examples/src/examples/TreeMapComparator.java" />
+        <option value="$PROJECT_DIR$/Examples/src/serializible/CutomObject.java" />
+        <option value="$PROJECT_DIR$/Examples/src/serializible/NonSerializible.java" />
+        <option value="$PROJECT_DIR$/Examples/src/serializible/Operations.java" />
+        <option value="$PROJECT_DIR$/Examples/src/serializible/TestSerialize.java" />
+        <option value="$PROJECT_DIR$/Examples/src/serializible/CustomObject.java" />
+        <option value="$PROJECT_DIR$/Examples/src/serializible/DataObject.java" />
+        <option value="$PROJECT_DIR$/Examples/src/generics/TestGenerics.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="jBittorrent" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Dependencies" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="jBittorrent" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Plugins" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="jBittorrent" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1154" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jbittorrentapi-v1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jbittorrentapi-v1.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="trackerBT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HH_sequence" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
+    <property name="options.lastSelected" value="MavenSettings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jBittorrentAPI.structure" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\jbittorrentapi-v1.0\trackerBT" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="concurrency" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Mmuzaf\Projects\jbittorrentapi-v1.0\Examples\resources" />
+      <recent name="C:\Projects\jbittorrentapi-v1.0\Examples" />
+      <recent name="C:\Projects\jbittorrentapi-v1.0\trackerBT" />
+      <recent name="C:\Projects\jbittorrentapi-v1.0\jBittorrentAPI\documentation\javadoc" />
+      <recent name="C:\Projects\jbittorrentapi-v1.0\jBittorrentAPI\build" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestGenerics">
+    <configuration default="false" name="Operations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="concurrency.Operations" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="examples" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method>
+        <option name="Make" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="false" name="Operations2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="concurrency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="concurrency.Operations2" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="examples" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method>
+        <option name="Make" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="false" name="TreeMapComparator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="examples.TreeMapComparator" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="examples" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method>
+        <option name="Make" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="false" name="TestSerialize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="serializible.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="serializible.TestSerialize" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="examples" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method>
+        <option name="Make" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="false" name="TestGenerics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="generics.TestGenerics" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="examples" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method>
+        <option name="Make" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin" singleton="true">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browserFamily" value="FIREFOX" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Operations" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Operations2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.TreeMapComparator" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestSerialize" />
+      <item index="4" class="java.lang.String" itemvalue="Application.TestGenerics" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.TestGenerics" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestSerialize" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TreeMapComparator" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Operations2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Operations" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\MMuzafarov\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a39dfec3-8e04-4dae-93f6-d3c2df5ba7c0" name="Default" comment="" />
+      <created>1401800877120</created>
+      <updated>1401800877120</updated>
+      <workItem from="1401800880924" duration="12649000" />
+      <workItem from="1402065554559" duration="28304000" />
+      <workItem from="1402917159421" duration="80430000" />
+      <workItem from="1403623071173" duration="36400000" />
+      <workItem from="1403810884622" duration="21999000" />
+      <workItem from="1403896218062" duration="23028000" />
+      <workItem from="1404154701443" duration="15896000" />
+      <workItem from="1404238003703" duration="47265000" />
+      <workItem from="1404416621508" duration="1233000" />
+      <workItem from="1404419621193" duration="4251000" />
+      <workItem from="1404473481307" duration="19720000" />
+      <workItem from="1404505516171" duration="6271000" />
+      <workItem from="1404645852005" duration="13314000" />
+      <workItem from="1404900282474" duration="39830000" />
+      <workItem from="1405067746005" duration="16355000" />
+      <workItem from="1406744754435" duration="17690000" />
+      <workItem from="1408538599541" duration="1236000" />
+      <workItem from="1410090499511" duration="397000" />
+      <workItem from="1410103055741" duration="3254000" />
+      <workItem from="1410200729202" duration="1280000" />
+      <workItem from="1410291328684" duration="5000" />
+      <workItem from="1422711371666" duration="5305000" />
+      <workItem from="1422812478461" duration="1459000" />
+      <workItem from="1422817178779" duration="2038000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial commit&#10;">
+      <created>1422721377632</created>
+      <updated>1422721377633</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="399609000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1154" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287805" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2913001" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942328" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22790202" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22310969" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40664712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18084067" sideWeight="0.6586794" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23362659" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36165577" sideWeight="0.34132054" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2518637" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40762463" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36165577" sideWeight="0.6586794" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.291939" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23410405" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2257721" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="Initial commit&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/InterestedMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="26" selection-start="908" selection-end="908" vertical-scroll-proportion="0.8012048" vertical-offset="97" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/UnChokeMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="30" selection-start="875" selection-end="875" vertical-scroll-proportion="0.7518248" vertical-offset="97" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/ChokeMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="5" selection-start="558" selection-end="558" vertical-scroll-proportion="0.42919707" vertical-offset="97" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/NotInterestedMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="575" selection-end="575" vertical-scroll-proportion="0.4683735" vertical-offset="97" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar!/org/apache/commons/lang3/ArrayUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="368" column="25" selection-start="17379" selection-end="17379" vertical-scroll-proportion="0.34545454" vertical-offset="6011" max-vertical-offset="8534" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_55/src.zip!/java/util/BitSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="287" column="18" selection-start="9422" selection-end="9422" vertical-scroll-proportion="0.5562044" vertical-offset="4056" max-vertical-offset="19907" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/BitFieldMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="55" selection-start="847" selection-end="847" vertical-scroll-proportion="0.44244245" vertical-offset="0" max-vertical-offset="999" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/RequestMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="428" selection-end="1476" vertical-scroll-proportion="0.22122122" vertical-offset="0" max-vertical-offset="999" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/HaveBlockMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="26" selection-start="527" selection-end="527" vertical-scroll-proportion="0.2607362" vertical-offset="0" max-vertical-offset="978" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/CancelMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="22" selection-start="1296" selection-end="1296" vertical-scroll-proportion="0.8298298" vertical-offset="21" max-vertical-offset="1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/PortMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="20" selection-start="1067" selection-end="1067" vertical-scroll-proportion="0.7487487" vertical-offset="0" max-vertical-offset="999" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/Message_PP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="152" column="33" selection-start="4468" selection-end="4468" vertical-scroll-proportion="0.0" vertical-offset="1228" max-vertical-offset="3043" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/bencode/btypes/BString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="65" selection-start="1025" selection-end="1025" vertical-scroll-proportion="-0.12985685" vertical-offset="756" max-vertical-offset="1734" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/AbstractPeerProtocolMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="1" selection-start="389" selection-end="389" vertical-scroll-proportion="0.2781186" vertical-offset="0" max-vertical-offset="978" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/src/examples/Convert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="31" selection-start="767" selection-end="767" vertical-scroll-proportion="0.4934935" vertical-offset="0" max-vertical-offset="999" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_55/src.zip!/java/io/DataInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="62" selection-start="815" selection-end="815" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10982" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_55/src.zip!/java/io/InputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="24" selection-start="1739" selection-end="1739" vertical-scroll-proportion="0.698364" vertical-offset="14" max-vertical-offset="5933" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_55/src.zip!/java/io/DataInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="234" column="11" selection-start="7082" selection-end="7082" vertical-scroll-proportion="1.7387388" vertical-offset="1850" max-vertical-offset="10506" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="22" selection-start="1770" selection-end="1770" vertical-scroll-proportion="0.11935808" vertical-offset="0" max-vertical-offset="997" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/bencode/btypes/BElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="17" selection-start="209" selection-end="209" vertical-scroll-proportion="0.13934426" vertical-offset="0" max-vertical-offset="976" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/bencode/btypes/ArrayBList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="16" selection-start="397" selection-end="397" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1649" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/MessageSender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="127" column="43" selection-start="4744" selection-end="4744" vertical-scroll-proportion="0.0" vertical-offset="703" max-vertical-offset="2057" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/Message_HS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="83" selection-start="1787" selection-end="1787" vertical-scroll-proportion="0.0" vertical-offset="1264" max-vertical-offset="2261" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/reciever/TrackerEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="19" selection-start="190" selection-end="190" vertical-scroll-proportion="0.17418033" vertical-offset="0" max-vertical-offset="976" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/HandShakeMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="0" selection-start="822" selection-end="822" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/MessageReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="167" column="21" selection-start="5658" selection-end="5658" vertical-scroll-proportion="0.0" vertical-offset="1877" max-vertical-offset="3995" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/PeerProtocolMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="36" selection-start="392" selection-end="392" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/BlockMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="33" selection-start="1113" selection-end="1113" vertical-scroll-proportion="0.0" vertical-offset="106" max-vertical-offset="1105" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/DownloadTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="176" column="66" selection-start="6711" selection-end="6711" vertical-scroll-proportion="0.0" vertical-offset="2091" max-vertical-offset="10795" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/src/concurrency/InsufficientFundsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="257" selection-end="257" vertical-scroll-proportion="0.36115327" vertical-offset="0" max-vertical-offset="659" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/src/examples/MainThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="52" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/src/examples/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="46" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_55/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="13" selection-start="961" selection-end="961" vertical-scroll-proportion="-2.3676472" vertical-offset="1916" max-vertical-offset="4046" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/bencode/BCoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="63" selection-start="1640" selection-end="1640" vertical-scroll-proportion="0.0" vertical-offset="395" max-vertical-offset="1241">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_55/src.zip!/java/lang/Boolean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="19" selection-start="746" selection-end="746" vertical-scroll-proportion="0.25735295" vertical-offset="148" max-vertical-offset="4505" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_55/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="237" column="15" selection-start="8723" selection-end="8723" vertical-scroll-proportion="0.18235295" vertical-offset="3480" max-vertical-offset="9554" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_55/src.zip!/java/util/concurrent/Executors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="13" selection-start="1834" selection-end="1834" vertical-scroll-proportion="-1.825" vertical-offset="1734" max-vertical-offset="11186" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/src/examples/TreeMapComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="32" selection-start="599" selection-end="599" vertical-scroll-proportion="0.8192771" vertical-offset="0" max-vertical-offset="629" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../RNDJF/jf-cur-data-access/src/main/java/ru/nvg/rnd/jf/dao/jdbc/support/OracleJfJdbcTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="43" selection-start="1010" selection-end="1010" vertical-scroll-proportion="1.2581756" vertical-offset="0" max-vertical-offset="1462" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/src/examples/TestStatic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="23" selection-start="336" selection-end="336" vertical-scroll-proportion="0.7314974" vertical-offset="0" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/src/concurrency/Operations2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="27" selection-start="642" selection-end="642" vertical-scroll-proportion="0.7314974" vertical-offset="0" max-vertical-offset="581" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/src/concurrency/Transfer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="67" selection-start="1252" selection-end="1252" vertical-scroll-proportion="1.2581756" vertical-offset="0" max-vertical-offset="1258" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/src/concurrency/Operations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="44" selection-start="347" selection-end="347" vertical-scroll-proportion="0.17555939" vertical-offset="187" max-vertical-offset="1275" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/src/concurrency/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="5" selection-start="711" selection-end="711" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="969">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/src/serializible/NonSerializible.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="31" selection-start="211" selection-end="211" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/src/serializible/TestSerialize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="52" selection-start="840" selection-end="840" vertical-scroll-proportion="0.0" vertical-offset="68" max-vertical-offset="884">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/src/serializible/CustomObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="428" selection-end="428" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/src/serializible/DataObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="41" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/PeerMessageDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="15" selection-start="625" selection-end="625" vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="1309">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/src/generics/TestGenerics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="7" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="432" column="0" selection-start="13290" selection-end="13290" vertical-scroll-proportion="0.09848485" vertical-offset="6548" max-vertical-offset="7208">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>jBittorrentAPI:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jBittorrentAPI</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android API 19 Platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>ext</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
