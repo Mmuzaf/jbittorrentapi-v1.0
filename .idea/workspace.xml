@@ -1,9 +1,347 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a39dfec3-8e04-4dae-93f6-d3c2df5ba7c0" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Mmuzaf\Projects\jbittorrentapi-v1.0\Examples\downloads\24132-wot_modpack_by_amway921_for_0_9_0_-_update_32.zip" afterPath="" />
-      <change type="DELETED" beforePath="D:\Mmuzaf\Projects\jbittorrentapi-v1.0\Examples\downloads\Game.of.Thrones.S03E09.rus.LostFilm.TV.avi" afterPath="" />
+    <list default="true" id="a39dfec3-8e04-4dae-93f6-d3c2df5ba7c0" name="Default" comment="Initial commit&#10;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/BDecoder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/build/trackerBT/BDecoder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/BEncoder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/build/trackerBT/BEncoder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/BitExt.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/Bits.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/ClientHttpRequest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/ConListenerInterface.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/ConnectionListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/ConnectionManager.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/Constants.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/build/trackerBT/Constants.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/DLRateComparator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/DTListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/DownloadManager.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/DownloadTask.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/ExampleCreateTorrent.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/ExampleDownloadFiles.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/ExamplePublish.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/ExampleShareFiles.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/build/trackerBT/FileService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/IOManager.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/IncomingListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/LogManager.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/Message.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/MessageReceiver.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/MessageSender.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/Message_HS.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/Message_PP.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/OutgoingListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/Peer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/PeerProtocol.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/PeerUpdateListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/PeerUpdater.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/Piece.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/TorrentFile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/TorrentProcessor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/build/trackerBT/Tracker.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/build/trackerBT/TrackerService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/ULRateComparator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/build/trackerBT/UploadService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/build/jBittorrentAPI/Utils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/build/trackerBT/Utils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/ext/ant.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/ext/ant.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/ext/freemarker.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/ext/freemarker.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/example/client1/funvideo05.wmv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/ext/groovy.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/ext/groovy.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/resources/inherit.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/resources/inherit.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/ext/jaxen-core.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/ext/jaxen-core.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/ext/jaxen-jdom.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/ext/jaxen-jdom.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/ext/jdom.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/ext/jdom.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/ext/kxml.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/ext/kxml.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/output.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/ext/saxpath.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/ext/saxpath.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/ext/simple-upload-0.3.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/ext/simple-upload-0.3.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/ext/velocity.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/ext/velocity.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/ext/xalan.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/ext/xalan.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/ext/xerces.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/ext/xerces.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/ext/xml-apis.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/ext/xml-apis.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/AbstractPeerProtocolMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/concurrency/Account.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/examples/Application.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/examples/Application2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/examples/ApplicationTracker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/bencode/btypes/ArrayBList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/bencode/BCoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/structure/BConstantMeta.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/BDecoder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/BDecoder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/BDecoder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/class-use/BDecoder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/BDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/src/trackerBT/BDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/bencode/btypes/BElement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/BEncoder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/BEncoder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/BEncoder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/class-use/BEncoder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/BEncoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/src/trackerBT/BEncoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/bencode/btypes/BInteger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/bencode/btypes/BList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/bencode/btypes/BMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/bencode/btypes/BString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/BitExt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/BitExt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/BitExt.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/BitFieldMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/Bits.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/Bits.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/Bits.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/BlockMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/CancelMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/ChokeMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/ClientHttpRequest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/ClientHttpRequest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/ClientHttpRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/ConListenerInterface.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/ConListenerInterface.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/ConListenerInterface.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/ConnectionListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/ConnectionListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/ConnectionListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/ConnectionManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/ConnectionManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/ConnectionManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/Constants.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/Constants.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/Constants.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/class-use/Constants.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/Constants.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/src/trackerBT/Constants.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/examples/Convert.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/serializible/CustomObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/DLRateComparator.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/DLRateComparator.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/DLRateComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/DTListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/DTListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/DTListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/serializible/DataObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/DownloadManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/DownloadManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/DownloadManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/DownloadTask.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/DownloadTask.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/DownloadTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/ExampleCreateTorrent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/ExampleCreateTorrent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/example/ExampleCreateTorrent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/ExampleDownloadFiles.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/ExampleDownloadFiles.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/example/ExampleDownloadFiles.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/ExamplePublish.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/ExamplePublish.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/example/ExamplePublish.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/ExampleShareFiles.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/ExampleShareFiles.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/example/ExampleShareFiles.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/FileService.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/class-use/FileService.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/src/trackerBT/FileService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/GNU_GPL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/HandShakeMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/bencode/btypes/HashBMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/HaveBlockMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/IOManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/IOManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/utils/IOManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/IncomingListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/IncomingListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/IncomingListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/concurrency/InsufficientFundsException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/InterestedMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/KeepAliveMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/examples/LiftOff.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/examples/ListGenerics.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/LogManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/LogManager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/LogManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/examples/MainThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/Message.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/Message.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/Message.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/MessageReceiver.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/MessageReceiver.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/MessageReceiver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/MessageSender.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/MessageSender.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/MessageSender.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/Message_HS.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/Message_HS.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/Message_HS.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/Message_PP.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/Message_PP.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/Message_PP.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/serializible/NonSerializible.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/NotInterestedMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/concurrency/Operations.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/concurrency/Operations2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/OutgoingListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/OutgoingListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/OutgoingListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/Peer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/Peer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/Peer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/PeerMessageDecoder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/PeerProtocol.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/PeerProtocol.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/PeerProtocol.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/PeerProtocolMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/PeerUpdateListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/PeerUpdateListener.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/PeerUpdateListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/PeerUpdater.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/PeerUpdater.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/PeerUpdater.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/Piece.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/Piece.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/Piece.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/PortMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README-example" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/README-example" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README-jBittorrentAPI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/README-jBittorrentAPI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README-tracketBT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/README-tracketBT" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/RequestMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/generics/TestGenerics.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/serializible/TestSerialize.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/examples/TestStatic.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/The.Last.Ship.S01E02.rus.LostFilm.TV.torrent" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/structure/Torrent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/utils/TorrentBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/TorrentFile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/TorrentFile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/structure/TorrentMetaAnnounce.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/structure/TorrentMetaException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/structure/TorrentMetaFileResource.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/structure/TorrentMetaInfo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/structure/TorrentMetaPiece.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/TorrentProcessor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/TorrentProcessor.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/Tracker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/class-use/Tracker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/src/trackerBT/Tracker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/reciever/TrackerEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/reciever/TrackerProtocolHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/TrackerService.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/class-use/TrackerService.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/src/trackerBT/TrackerService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/concurrency/Transfer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/src/examples/TreeMapComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/ULRateComparator.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/ULRateComparator.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/ULRateComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/peerwire/UnChokeMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/UploadService.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/class-use/UploadService.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/src/trackerBT/UploadService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/Utils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/class-use/Utils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/Utils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/class-use/Utils.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/utils/Utils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/src/trackerBT/Utils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/resources/[NNM-Club.me]_IntelliJ IDEA Ultimate Edition 13.0.1.torrent" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/allclasses-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/allclasses-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/allclasses-noframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/allclasses-noframe.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/constant-values.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/constant-values.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/env.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example_tracker_config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/examples.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/help-doc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/help-doc.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index-files/index-1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index-files/index-10.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-11.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index-files/index-11.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-12.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index-files/index-12.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-13.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index-files/index-13.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-14.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index-files/index-14.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-15.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index-files/index-15.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-16.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index-files/index-16.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-17.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index-files/index-17.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-18.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index-files/index-18.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-19.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index-files/index-19.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index-files/index-2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-20.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-21.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-22.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index-files/index-3.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index-files/index-4.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index-files/index-5.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index-files/index-6.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index-files/index-7.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index-files/index-8.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index-files/index-9.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index-files/index-9.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/jBittorrentAPI.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jbittorrentapi-v1.0.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/resources/new  2.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Examples/resources/new  5.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/overview-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/overview-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/package-frame.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/package-list" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/package-list" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/package-summary.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/package-tree.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/jBittorrentAPI/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/trackerBT/package-use.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jBittorrentAPI/documentation/javadoc/jBittorrentAPI/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/documentation/javadoc/trackerBT/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/trackerBT/trackerBT.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="jbittorrentapi-v1.0.iws" />
@@ -135,7 +473,7 @@
       <file leaf-file-name="Utils.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/utils/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="432" column="0" selection-start="13290" selection-end="13290" vertical-scroll-proportion="0.09848485" vertical-offset="6548" max-vertical-offset="7208">
+            <state line="412" column="67" selection-start="12708" selection-end="12708" vertical-scroll-proportion="0.12878788" vertical-offset="6188" max-vertical-offset="7208">
               <folding />
             </state>
           </provider>
@@ -347,7 +685,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -356,19 +693,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jbittorrentapi-v1.0" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="trackerBT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -561,6 +889,26 @@
       <setting name="launchBrowser" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="examples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
     <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
@@ -581,6 +929,53 @@
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="examples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="examples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -633,6 +1028,26 @@
       <option name="VM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="examples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -711,6 +1126,46 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="examples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="examples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" output_log_level="null" package_name="" scope="Class">
       <option name="BCName" value="" />
       <option name="launcherParameters">
@@ -757,6 +1212,26 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="examples" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -850,6 +1325,7 @@
       <workItem from="1422711371666" duration="5305000" />
       <workItem from="1422812478461" duration="1459000" />
       <workItem from="1422817178779" duration="2038000" />
+      <workItem from="1422826103214" duration="113000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;">
       <created>1422721377632</created>
@@ -859,7 +1335,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="399609000" />
+    <option name="totallyTimeSpent" value="399722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1154" extended-state="6" />
@@ -874,7 +1350,7 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2913001" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942328" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32942328" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -883,22 +1359,22 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22790202" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22310969" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22310969" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40664712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18084067" sideWeight="0.6586794" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23362659" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32960597" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36165577" sideWeight="0.34132054" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36165577" sideWeight="0.34132054" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -916,8 +1392,8 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23410405" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24973376" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2257721" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -1218,7 +1694,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jBittorrentAPI/src/main/java/jBittorrentAPI/utils/Utils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="432" column="0" selection-start="13290" selection-end="13290" vertical-scroll-proportion="0.09848485" vertical-offset="6548" max-vertical-offset="7208">
+        <state line="412" column="67" selection-start="12708" selection-end="12708" vertical-scroll-proportion="0.12878788" vertical-offset="6188" max-vertical-offset="7208">
           <folding />
         </state>
       </provider>

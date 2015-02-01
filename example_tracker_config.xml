@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+  <param filePaths="context" value="./example/tracker/"/>
+  <param filePaths="torrentXML" value="./example/tracker/files/torrents.xml"/>
+  <param filePaths="peerXML" value="./example/tracker/files/peers.xml"/>
+  <param filePaths="listeningPort" value="8081"/>
+  <param filePaths="servername" value="JBitTorrentAPI Tracker"/>
+  <param filePaths="torrentsDir" value="./example/tracker/files/torrentsFile/"/>
+</config>
