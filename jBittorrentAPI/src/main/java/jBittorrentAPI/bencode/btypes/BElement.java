@@ -12,13 +12,13 @@ public interface BElement {
     /**
      * @return the encoded getParamName
      */
-    public String encode();
+    String encode();
 
-    public Integer toIntValue();
-    public Long toLongValue();
-    public String toStringValue();
-    public Byte [] toByteValue();
-    public BMap toMap();
-    public BList toList();
+    Integer toIntValue();
+    Long toLongValue();
+    String toStringValue();
+    Byte [] toByteValue();
+    BMap toMap();
+    BList toList();
 
 }

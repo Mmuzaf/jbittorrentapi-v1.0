@@ -41,7 +41,7 @@ import jBittorrentAPI.utils.Utils;
 
 /**
  *
- * Represent a Handshake message according to Bittorrent Protocol. It has the form:
+ * Represent a Handshake message according to Bittorrent Protocol. It has the form:k
  * <pstrlen><pstr><reserved><info_hash><peer_id>
  *
  * - # pstrlen: string length of <pstr>, as a single raw byte -

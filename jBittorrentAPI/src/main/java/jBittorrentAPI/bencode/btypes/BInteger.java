@@ -21,37 +21,30 @@ public class BInteger implements BElement {
         this.value = value;
     }
 
-    @Override
     public String encode() {
         return "i" + value + "e";
     }
 
-    @Override
     public Integer toIntValue() {
         return value.intValue();
     }
 
-    @Override
     public Long toLongValue() {
         return value;
     }
 
-    @Override
     public String toStringValue() {
         return String.valueOf(value);
     }
 
-    @Override
     public Byte [] toByteValue() {
         return ArrayUtils.toObject(Utils.getBytesOf(String.valueOf(value)));
     }
 
-    @Override
     public BMap toMap() {
         return null;
     }
 
-    @Override
     public BList toList() {
         return null;
     }

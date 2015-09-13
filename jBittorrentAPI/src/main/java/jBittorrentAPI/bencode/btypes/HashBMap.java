@@ -10,32 +10,26 @@ import java.util.concurrent.atomic.AtomicInteger;
  */
 public class HashBMap extends HashMap<BString, BElement> implements BMap {
 
-    @Override
     public Integer toIntValue() {
         return null;
     }
 
-    @Override
     public Long toLongValue() {
         return null;
     }
 
-    @Override
     public String toStringValue() {
         return null;
     }
 
-    @Override
     public Byte [] toByteValue() {
         return null;
     }
 
-    @Override
     public BMap toMap() {
         return this;
     }
 
-    @Override
     public BList toList() {
         return null;
     }
@@ -52,22 +46,18 @@ public class HashBMap extends HashMap<BString, BElement> implements BMap {
         return this.containsKey(key) ? this.get(key).toStringValue() : null;
     }
 
-    @Override
     public Byte[] getByteValue(BString key) {
         return this.containsKey(key) ? this.get(key).toByteValue() : null;
     }
 
-    @Override
     public BList getListValue(BString key) {
         return this.containsKey(key) ? this.get(key).toList() : null;
     }
 
-    @Override
     public BMap getMapValue(BString key) {
         return this.containsKey(key) ? this.get(key).toMap() : null;
     }
 
-    @Override
     public String encode() {
         final StringBuilder builder = new StringBuilder();
         builder.append('d');

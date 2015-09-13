@@ -11,7 +11,7 @@ import java.util.List;
  * Created at 02.07.14
  */
 public interface BList extends List<BElement>, BElement {
-    public Integer getIntValue(int key);
-    public String getStringValue(int key);
-    public List<String> getAsStringsList();
+    Integer getIntValue(int key);
+    String getStringValue(int key);
+    List<String> getAsStringsList();
 }

@@ -23,31 +23,24 @@ public class BString implements BElement, Comparable<BString> {
     public BString(final String value) {
         this.value = value;
     }
-    @Override
     public String encode() {
         return value.length() + ":" + value;
     }
-    @Override
     public Integer toIntValue() {
         return Integer.parseInt(value);
     }
-    @Override
     public Long toLongValue() {
         return Long.parseLong(value);
     }
-    @Override
     public String toStringValue() {
         return value;
     }
-    @Override
     public Byte [] toByteValue() {
         return ArrayUtils.toObject(Utils.getBytesOf(this.value));
     }
-    @Override
     public BMap toMap() {
         return null;
     }
-    @Override
     public BList toList() {
         return null;
     }
@@ -84,7 +77,6 @@ public class BString implements BElement, Comparable<BString> {
         return result;
     }
 
-    @Override
     public int compareTo(BString o) {
         byte b1[] = Utils.getBytesOf(this.toStringValue());
         byte b2[] = Utils.getBytesOf(o.toStringValue());

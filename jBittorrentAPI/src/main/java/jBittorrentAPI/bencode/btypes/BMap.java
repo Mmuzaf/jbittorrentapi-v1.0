@@ -11,10 +11,10 @@ import java.util.Map;
  * Created at 02.07.14
  */
 public interface BMap extends Map<BString,BElement>, BElement {
-    public Integer getIntValue(BString key);
-    public Long getLongValue(BString key);
-    public String getStringValue(BString key);
-    public Byte [] getByteValue(BString key);
-    public BList getListValue(BString key);
-    public BMap getMapValue(BString key);
+    Integer getIntValue(BString key);
+    Long getLongValue(BString key);
+    String getStringValue(BString key);
+    Byte [] getByteValue(BString key);
+    BList getListValue(BString key);
+    BMap getMapValue(BString key);
 }

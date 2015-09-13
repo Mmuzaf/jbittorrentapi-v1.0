@@ -14,7 +14,7 @@ import java.io.OutputStream;
  */
 public interface PeerProtocolMessage {
 
-    public void write(OutputStream o) throws IOException;
+    void write(OutputStream o) throws IOException;
 
-    public void read(InputStream i);
+    void read(InputStream i);
 }

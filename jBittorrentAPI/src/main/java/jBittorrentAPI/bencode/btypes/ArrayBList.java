@@ -20,47 +20,38 @@ public class ArrayBList extends ArrayList<BElement> implements BList {
         super();
     }
 
-    @Override
     public Integer toIntValue() {
         return null;
     }
 
-    @Override
     public Long toLongValue() {
         return null;
     }
 
-    @Override
     public String toStringValue() {
         return null;
     }
 
-    @Override
     public Byte [] toByteValue() {
         return null;
     }
 
-    @Override
     public BMap toMap() {
         return null;
     }
 
-    @Override
     public BList toList() {
         return this;
     }
 
-    @Override
     public Integer getIntValue(int key) {
         return this.get(key).toIntValue();
     }
 
-    @Override
     public String getStringValue(int key) {
         return this.get(key).toStringValue();
     }
 
-    @Override
     public List<String> getAsStringsList() {
         List<String> result = new ArrayList<String>();
         for (BElement item : this) {
@@ -69,7 +60,6 @@ public class ArrayBList extends ArrayList<BElement> implements BList {
         return result;
     }
 
-    @Override
     public String encode() {
         final StringBuilder builder = new StringBuilder();
         builder.append('l');
